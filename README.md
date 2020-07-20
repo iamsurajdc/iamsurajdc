@@ -25,9 +25,6 @@ Hi, I'm Suraj Chandgude, a passionate sapien who writes computer programs and re
 
 #### Cheers!
  
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=iamsurajdc&show_icons=true&hide_border=true)
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=iamsurajdc&show_icons=true&theme=radical&hide_border=true)
 </br>
-<p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=iamsurajdc.visitor-badge">
- <p/>
 🌻
