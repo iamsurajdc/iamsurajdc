@@ -18,10 +18,10 @@
 
 Hi, I'm Suraj Chandgude, a passionate sapien who writes computer programs and resides on earth for now!
 
-- :100: Take a look at my portfolio site: https://iamsurajdc.js.org :globe_with_meridians:
-- 🌱 I’m currently diving into Vue.js
-- 💬 Give me shoutout [here](https://twitter.com/iamsurajdc)
-- :page_facing_up: yes, I read sometime.
+- :100: &nbsp; Take a look at my portfolio site: https://iamsurajdc.js.org :globe_with_meridians:
+- 🌱 &nbsp; I’m currently diving into Vue.js
+- 💬 &nbsp; Give me shoutout [here](https://twitter.com/iamsurajdc)
+- :page_facing_up: &nbsp; yes, I read sometime.
 
 #### Cheers!
  
