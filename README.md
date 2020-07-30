@@ -25,6 +25,10 @@ Hi, I'm Suraj Chandgude, a passionate sapien who writes computer programs and re
 
 #### Cheers!
  
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=iamsurajdc&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=iamsurajdc&show_icons=true&theme=dracula&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsurajdc&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://profile-counter.glitch.me/iamsurajdc/count.svg))
 </br>
 🌻
