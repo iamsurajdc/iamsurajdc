@@ -2,16 +2,16 @@
 
 
 <a href="https://in.linkedin.com/in/surajdc">
-    <img align="left" alt="Suraj Chandgude | Linkedin" width="24px" src="./assets/Linkedin.svg" />
+    <img align="left" alt="Suraj Chandgude | Linkedin" width="24px" src="https://github.com/iamsurajdc/iamsurajdc/blob/master/assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/iamsurajdc">
-    <img align="left" alt="Suraj Chandgude | Twitter" width="26px" src="./assets/Twitter.svg" />
+    <img align="left" alt="Suraj Chandgude | Twitter" width="26px" src="https://github.com/iamsurajdc/iamsurajdc/blob/master/assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/curiousneuron/">
-    <img align="left" alt="Suraj Chandgude | Instagram" width="24px" src="./assets/Instagram.svg" />
+    <img align="left" alt="Suraj Chandgude | Instagram" width="24px" src="https://github.com/iamsurajdc/iamsurajdc/blob/master/assets/Instagram.svg" />
   </a>
   <a href="mailto:surajchandgude0304@gmail.com">
-    <img align="left" alt="Suraj Chandgude | Gmail" width="26px" src="./assets/Gmail.svg" />
+    <img align="left" alt="Suraj Chandgude | Gmail" width="26px" src="https://github.com/iamsurajdc/iamsurajdc/blob/master/assets/Gmail.svg" />
   </a>
 <br />
 <br />
