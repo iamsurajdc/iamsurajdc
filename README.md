@@ -16,12 +16,12 @@
 <br />
 <br />
 
-Hi, I'm Suraj Chandgude, a passionate sapien who writes computer programs and resides on earth for now!
+Hi, I'm Suraj Chandgude, who writes computer programs!
 
 - :100: &nbsp; Take a look at my portfolio site: https://iamsurajdc.js.org :globe_with_meridians:
-- 🌱 &nbsp; I’m currently diving into Vue.js
+- 🌱 &nbsp; I’m currently diving into Fintech, AWS Cloud
 - 💬 &nbsp; Give me shoutout [here](https://twitter.com/iamsurajdc)
-- :page_facing_up: &nbsp; yes, I read sometime.
+- :page_facing_up: &nbsp; Currently reading, The Almanack of Naval Ravikant.
 
 #### Cheers!
  
